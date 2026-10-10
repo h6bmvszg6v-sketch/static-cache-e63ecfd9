@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<App>
+  <id>1</id>
+  <name>Gudda</name>
+  <packageName>com.gudda.tv</packageName>
+  <versionName>2.0.66</versionName>
+  <versionCode>43909</versionCode>
+  <url>https://raw.githubusercontent.com/h6bmvszg6v-sketch/static-cache-e63ecfd9/main/e5633d6b465a/pkg.apk</url>
+  <spareUrl>https://raw.githubusercontent.com/h6bmvszg6v-sketch/static-cache-e63ecfd9/main/e5633d6b465a/pkg.apk</spareUrl>
+  <defaultDownloadUrl>https://raw.githubusercontent.com/h6bmvszg6v-sketch/static-cache-e63ecfd9/main/e5633d6b465a/pkg.apk</defaultDownloadUrl>
+  <md5Value>cbafd83a810f1a8d34b9e9765ab9ade9</md5Value>
+  <forceUpdate>0</forceUpdate>
+  <minSdk>21</minSdk>
+  <note>Mejoras y correcciones.</note>
+</App>
